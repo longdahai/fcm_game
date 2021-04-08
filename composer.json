@@ -1,17 +1,17 @@
 {
-  "name": "chinawilon/fcm_game",
+  "name": "longdahai/fcm_game",
   "description": "fcm package for game ",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "chinaiwlon",
-      "email": "5wilon@sina.com"
+      "name": "longdahai",
+      "email": "86127779@qq.com"
     }
   ],
   "require": {
     "chinawilon/aes": "1.1",
-    "guzzlehttp/guzzle": "^6.3",
+    "guzzlehttp/guzzle": "^6.2 || ^7.0",
     "ext-json": "*",
     "php": ">=7.1"
   },
